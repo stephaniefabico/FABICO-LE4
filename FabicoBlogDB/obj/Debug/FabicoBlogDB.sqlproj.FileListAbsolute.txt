@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Desktop\FABICOLE2\FabicoBlogDB\bin\Debug\FabicoBlogDB.dacpac
+C:\Users\user\OneDrive\Desktop\FABICOLE2\FabicoBlogDB\bin\Debug\FabicoBlogDB.dll
+C:\Users\user\OneDrive\Desktop\FABICOLE2\FabicoBlogDB\bin\Debug\FabicoBlogDB.pdb
+C:\Users\user\OneDrive\Desktop\FABICOLE2\FabicoBlogDB\obj\Debug\FabicoBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\FABICOLE2\FabicoBlogDB\obj\Debug\Model.xml
+C:\Users\user\OneDrive\Desktop\FABICOLE2\FabicoBlogDB\obj\Debug\refactor.xml
+C:\Users\user\OneDrive\Desktop\FABICOLE2\FabicoBlogDB\obj\Debug\postdeploy.sql
+C:\Users\user\OneDrive\Desktop\FABICOLE2\FabicoBlogDB\obj\Debug\predeploy.sql
+C:\Users\user\OneDrive\Desktop\FABICOLE2\FabicoBlogDB\obj\Debug\FabicoBlogDB.dll
+C:\Users\user\OneDrive\Desktop\FABICOLE2\FabicoBlogDB\obj\Debug\FabicoBlogDB.pdb
