@@ -1,0 +1,12 @@
+C:\Users\user\OneDrive\Desktop\FABICOLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.deps.json
+C:\Users\user\OneDrive\Desktop\FABICOLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.dll
+C:\Users\user\OneDrive\Desktop\FABICOLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.pdb
+C:\Users\user\OneDrive\Desktop\FABICOLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\FABICOLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\FABICOLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\FABICOLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\FABICOLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\FABICOLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.dll
+C:\Users\user\OneDrive\Desktop\FABICOLE2\BlogDataLibrary\obj\Debug\net6.0\refint\BlogDataLibrary.dll
+C:\Users\user\OneDrive\Desktop\FABICOLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.pdb
+C:\Users\user\OneDrive\Desktop\FABICOLE2\BlogDataLibrary\obj\Debug\net6.0\ref\BlogDataLibrary.dll
