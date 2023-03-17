@@ -31,10 +31,7 @@ namespace BlogDataLibrary.Data
                 connectionStringName,
                 true);
         }
-        public void addPost(PostModel post)
-        {
-            _db.SaveData("spPosts_Insert", new { post.UserId, post.Title, post.Body, post.DateCreated }, connectionStringName, true);
-        }
+
         public List<ListPostModel> ListPosts()
         {
             return _db.LoadData<ListPostModel, dynamic>("dbo.spPosts_List", new { },
@@ -44,6 +41,11 @@ namespace BlogDataLibrary.Data
         {
             return _db.LoadData<ListPostModel, dynamic>("dbo.spPosts_Details", new { id },
                 connectionStringName, true).FirstOrDefault();
+        }
+
+        public void AddPost(PostModel post)
+        {
+            _db.SaveData("spPosts_Insert", new { post.UserId, post.Title, post.Body, post.DateCreated }, connectionStringName, true);
         }
     }
 }

@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogDataLibrary", "BlogDataLibrary\BlogDataLibrary.csproj", "{0F5032B5-DAC3-45E8-B78C-9BDC1AA61E50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogDataLibrary", "BlogDataLibrary\BlogDataLibrary.csproj", "{0F5032B5-DAC3-45E8-B78C-9BDC1AA61E50}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "FabicoBlogDB", "FabicoBlogDB\FabicoBlogDB.sqlproj", "{A8354516-8287-4F0C-B252-F676133D7B9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogTestUI", "BlogTestUI\BlogTestUI.csproj", "{DF6AF35F-13FB-4CDC-9314-7A11544B4193}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogTestUI", "BlogTestUI\BlogTestUI.csproj", "{DF6AF35F-13FB-4CDC-9314-7A11544B4193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogAPI", "BlogAPI\BlogAPI.csproj", "{CE144F2F-1C0A-42E3-8232-B337DE6B0733}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{DF6AF35F-13FB-4CDC-9314-7A11544B4193}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF6AF35F-13FB-4CDC-9314-7A11544B4193}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF6AF35F-13FB-4CDC-9314-7A11544B4193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE144F2F-1C0A-42E3-8232-B337DE6B0733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE144F2F-1C0A-42E3-8232-B337DE6B0733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE144F2F-1C0A-42E3-8232-B337DE6B0733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE144F2F-1C0A-42E3-8232-B337DE6B0733}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
